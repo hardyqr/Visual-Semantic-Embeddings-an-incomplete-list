@@ -8,7 +8,7 @@ ORDER-EMBEDDINGS OF IMAGES AND LANGUAGE
 ### CVPR 2017
 Learning a Deep Embedding Model for Zero-Shot Learning 
 [[paper]](https://arxiv.org/pdf/1611.05088.pdf)
-[[code]](https://github.com/lzrobots/DeepEmbeddingModel_ZSL)(tf)
+[[code]](https://github.com/lzrobots/DeepEmbeddingModel_ZSL)(TF)
 
 ### ICCV 2017
 Sampling Matters in Deep Embedding Learning 
