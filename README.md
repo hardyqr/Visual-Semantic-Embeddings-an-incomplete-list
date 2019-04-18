@@ -1,5 +1,4 @@
-## Visual Semantic Embeddings and Text-Image Retrieval: 
-## an in incomplete list
+## Visual Semantic Embeddings and Text-Image Retrieval: an in incomplete list
 
 ### NIPS 2013
 DeViSE: A Deep Visual-Semantic Embedding Model
