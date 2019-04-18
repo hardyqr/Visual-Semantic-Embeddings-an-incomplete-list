@@ -66,6 +66,12 @@ An Adversarial Approach to Hard Triplet Generation
 Conditional Image-Text Embedding Networks 
 [[paper]](https://arxiv.org/pdf/1711.08389.pdf)
 
+Visual-Semantic Alignment Across Domains Using a Semi-Supervised Approach
+[[paper]](http://openaccess.thecvf.com/content_ECCVW_2018/papers/11134/Carraggi_Visual-Semantic_Alignment_Across_Domains_Using_a_Semi-Supervised_Approach_ECCVW_2018_paper.pdf)
+
+Stacked Cross Attention for Image-Text Matching
+[[paper]](https://eccv2018.org/openaccess/content_ECCV_2018/papers/Kuang-Huei_Lee_Stacked_Cross_Attention_ECCV_2018_paper.pdf)
+
 ### CVPR 2019
 Unified Visual-Semantic Embeddings: Bridging Vision and Language with Structured Meaning Representations
 [[paper]](https://arxiv.org/pdf/1904.05521.pdf)
