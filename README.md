@@ -49,6 +49,10 @@ Bidirectional Retrieval Made Simple
 [[paper]](http://openaccess.thecvf.com/content_cvpr_2018/papers/Wehrmann_Bidirectional_Retrieval_Made_CVPR_2018_paper.pdf)
 [[code]](https://github.com/jwehrmann/chain-vse)(PyTorch)
 
+### ACL 2018
+Illustrative Language Understanding: Large-Scale Visual Grounding with Image Search
+[[paper]](https://aclweb.org/anthology/P18-1085)
+
 ### COLING 2018
 Learning Visually-Grounded Semantics from Contrastive Adversarial Samples
 [[paper]](https://aclweb.org/anthology/C18-1315)
