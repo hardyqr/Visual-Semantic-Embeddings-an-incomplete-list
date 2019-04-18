@@ -1,6 +1,15 @@
 ## Visual Semantic Embeddings and Text-Image Retrieval: 
 ## an in incomplete list
 
+### NIPS 2013
+DeViSE: A Deep Visual-Semantic Embedding Model
+[[paper]](https://papers.nips.cc/paper/5204-devise-a-deep-visual-semantic-embedding-model.pdf)
+
+### NIPS 2014 Deep Learning Workshop
+Unifying Visual-Semantic Embeddings with Multimodal Neural Language Models
+[[paper]](https://arxiv.org/pdf/1411.2539.pdf)
+[[code]](https://github.com/ryankiros/visual-semantic-embedding)(Theano)
+
 ### ICLR 2016
 ORDER-EMBEDDINGS OF IMAGES AND LANGUAGE
 [[paper]](https://arxiv.org/pdf/1511.06361.pdf)
@@ -39,11 +48,12 @@ End-to-end Convolutional Semantic Embeddings
  
 Bidirectional Retrieval Made Simple 
 [[paper]](http://openaccess.thecvf.com/content_cvpr_2018/papers/Wehrmann_Bidirectional_Retrieval_Made_CVPR_2018_paper.pdf)
+[[code]](https://github.com/jwehrmann/chain-vse)(PyTorch)
 
 ### COLING 2018
 Learning Visually-Grounded Semantics from Contrastive Adversarial Samples
 [[paper]](https://aclweb.org/anthology/C18-1315)
-[code](https://github.com/ExplorerFreda/VSE-C)(PyTorch)
+[[code]](https://github.com/ExplorerFreda/VSE-C)(PyTorch)
 
 ### BMVC 2018
 VSE++: Improving Visual-Semantic Embeddings with Hard Negatives
