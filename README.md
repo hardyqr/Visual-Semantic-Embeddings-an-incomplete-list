@@ -1,5 +1,6 @@
-## Visual Semantic Embeddings and Text-Image Retrieval: an in incomplete list
+# Visual Semantic Embeddings and Text-Image Retrieval: an in incomplete list
 
+## Conferences
 ### NIPS 2013
 DeViSE: A Deep Visual-Semantic Embedding Model
 [[paper]](https://papers.nips.cc/paper/5204-devise-a-deep-visual-semantic-embedding-model.pdf)
@@ -106,6 +107,7 @@ Polysemous Visual-Semantic Embedding for Cross-Modal Retrieval
 Composing Text and Image for Image Retrieval - An Empirical Odyssey
 [[paper]](https://arxiv.org/pdf/1812.07119.pdf)
 
+## Journals
 ### IPAMI 2019 
 Learning Two-Branch Neural Networks for Image-Text Matching Tasks
 [[paper]](https://arxiv.org/pdf/1704.03470.pdf)
