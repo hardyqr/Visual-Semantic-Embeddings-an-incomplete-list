@@ -11,18 +11,22 @@ Unifying Visual-Semantic Embeddings with Multimodal Neural Language Models
 
 ### CVPR 2015
 Deep Visual-Semantic Alignments for Generating Image Descriptions
-[[paper]](Deep Visual-Semantic Quantization for Efficient Image Retrieval)
+[[paper]](https://cs.stanford.edu/people/karpathy/cvpr2015.pdf)
 
 ### ICLR 2016
 ORDER-EMBEDDINGS OF IMAGES AND LANGUAGE
 [[paper]](https://arxiv.org/pdf/1511.06361.pdf)
+
+### CVPR 2016
+Learning Deep Structure-Preserving Image-Text Embeddings
+[[paper]](http://slazebni.cs.illinois.edu/publications/cvpr16_structure.pdf)
 
 ### CVPR 2017
 Learning a Deep Embedding Model for Zero-Shot Learning 
 [[paper]](https://arxiv.org/pdf/1611.05088.pdf)
 [[code]](https://github.com/lzrobots/DeepEmbeddingModel_ZSL)(TF)
 
-Deep Visual-Semantic Quantization for Efficient Image Retrieval∗
+Deep Visual-Semantic Quantization for Efficient Image Retrieval
 [[paper]](http://openaccess.thecvf.com/content_cvpr_2017/papers/Cao_Deep_Visual-Semantic_Quantization_CVPR_2017_paper.pdf)
 
 ### ICCV 2017
@@ -88,6 +92,7 @@ Stacked Cross Attention for Image-Text Matching
 
 CurriculumNet: Weakly Supervised Learning from Large-Scale Web Images
 [[paper]](http://openaccess.thecvf.com/content_ECCV_2018/papers/Sheng_Guo_CurriculumNet_Learning_from_ECCV_2018_paper.pdf)
+[[code]](https://github.com/MalongTech/research-curriculumnet)(Caffe)
 
 ### CVPR 2019
 Unified Visual-Semantic Embeddings: Bridging Vision and Language with Structured Meaning Representations
@@ -104,3 +109,4 @@ Composing Text and Image for Image Retrieval - An Empirical Odyssey
 ### IPAMI 2019 
 Learning Two-Branch Neural Networks for Image-Text Matching Tasks
 [[paper]](https://arxiv.org/pdf/1704.03470.pdf)
+[[code]](https://github.com/lwwang/Two_branch_network)(TF)
