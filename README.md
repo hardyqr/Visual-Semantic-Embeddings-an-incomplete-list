@@ -9,6 +9,10 @@ Unifying Visual-Semantic Embeddings with Multimodal Neural Language Models
 [[paper]](https://arxiv.org/pdf/1411.2539.pdf)
 [[code]](https://github.com/ryankiros/visual-semantic-embedding)(Theano)
 
+### CVPR 2015
+Deep Visual-Semantic Alignments for Generating Image Descriptions
+[[paper]](Deep Visual-Semantic Quantization for Efficient Image Retrieval)
+
 ### ICLR 2016
 ORDER-EMBEDDINGS OF IMAGES AND LANGUAGE
 [[paper]](https://arxiv.org/pdf/1511.06361.pdf)
@@ -18,6 +22,9 @@ Learning a Deep Embedding Model for Zero-Shot Learning
 [[paper]](https://arxiv.org/pdf/1611.05088.pdf)
 [[code]](https://github.com/lzrobots/DeepEmbeddingModel_ZSL)(TF)
 
+Deep Visual-Semantic Quantization for Efficient Image Retrieval∗
+[[paper]](http://openaccess.thecvf.com/content_cvpr_2017/papers/Cao_Deep_Visual-Semantic_Quantization_CVPR_2017_paper.pdf)
+
 ### ICCV 2017
 Sampling Matters in Deep Embedding Learning 
 [[paper]](https://arxiv.org/pdf/1706.07567.pdf)
@@ -25,6 +32,9 @@ Sampling Matters in Deep Embedding Learning
 
 Learning Robust Visual-Semantic Embeddings
 [[paper]](http://openaccess.thecvf.com/content_ICCV_2017/papers/Tsai_Learning_Robust_Visual-Semantic_ICCV_2017_paper.pdf)
+
+Hierarchical Multimodal LSTM for Dense Visual-Semantic Embedding
+[[paper]](http://openaccess.thecvf.com/content_ICCV_2017/papers/Niu_Hierarchical_Multimodal_LSTM_ICCV_2017_paper.pdf)
 
 Learning a Recurrent Residual Fusion Network for Multimodal Matching 
 [[paper]](http://openaccess.thecvf.com/content_ICCV_2017/papers/Liu_Learning_a_Recurrent_ICCV_2017_paper.pdf)
@@ -76,9 +86,15 @@ Visual-Semantic Alignment Across Domains Using a Semi-Supervised Approach
 Stacked Cross Attention for Image-Text Matching
 [[paper]](https://eccv2018.org/openaccess/content_ECCV_2018/papers/Kuang-Huei_Lee_Stacked_Cross_Attention_ECCV_2018_paper.pdf)
 
+CurriculumNet: Weakly Supervised Learning from Large-Scale Web Images
+[[paper]](http://openaccess.thecvf.com/content_ECCV_2018/papers/Sheng_Guo_CurriculumNet_Learning_from_ECCV_2018_paper.pdf)
+
 ### CVPR 2019
 Unified Visual-Semantic Embeddings: Bridging Vision and Language with Structured Meaning Representations
 [[paper]](https://arxiv.org/pdf/1904.05521.pdf)
+
+Engaging Image Captioning via Personality
+[[paper]](https://arxiv.org/pdf/1810.10665.pdf)
 
 Polysemous Visual-Semantic Embedding for Cross-Modal Retrieval
  
