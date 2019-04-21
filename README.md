@@ -30,6 +30,9 @@ Learning a Deep Embedding Model for Zero-Shot Learning
 Deep Visual-Semantic Quantization for Efficient Image Retrieval
 [[paper]](http://openaccess.thecvf.com/content_cvpr_2017/papers/Cao_Deep_Visual-Semantic_Quantization_CVPR_2017_paper.pdf)
 
+Dual Attention Networks for Multimodal Reasoning and Matching
+[[paper]](http://openaccess.thecvf.com/content_cvpr_2017/papers/Nam_Dual_Attention_Networks_CVPR_2017_paper.pdf)
+
 ### ICCV 2017
 Sampling Matters in Deep Embedding Learning 
 [[paper]](https://arxiv.org/pdf/1706.07567.pdf)
