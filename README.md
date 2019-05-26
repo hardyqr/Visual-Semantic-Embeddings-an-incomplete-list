@@ -111,6 +111,10 @@ Composing Text and Image for Image Retrieval - An Empirical Odyssey
 [[paper]](https://arxiv.org/pdf/1812.07119.pdf)
 
 ## Journals
+### Machine Learning 2010
+Large scale image annotation: learning to rank with joint word-image embeddings
+[[paper]](https://link.springer.com/content/pdf/10.1007%2Fs10994-010-5198-3.pdf)
+
 ### IPAMI 2019 
 Learning Two-Branch Neural Networks for Image-Text Matching Tasks
 [[paper]](https://arxiv.org/pdf/1704.03470.pdf)
