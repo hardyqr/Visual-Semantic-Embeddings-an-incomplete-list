@@ -1,4 +1,4 @@
-# Visual Semantic Embeddings and Text-Image Retrieval: an in incomplete list
+# Visual Semantic Embeddings and Text-Image Retrieval: an incomplete list
 
 ## Conferences
 ### NIPS 2013
