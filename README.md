@@ -14,6 +14,9 @@ Unifying Visual-Semantic Embeddings with Multimodal Neural Language Models
 Deep Visual-Semantic Alignments for Generating Image Descriptions
 [[paper]](https://cs.stanford.edu/people/karpathy/cvpr2015.pdf)
 
+Deep Correlation for Matching Images and Text
+[[paper]](http://openaccess.thecvf.com/content_cvpr_2015/papers/Yan_Deep_Correlation_for_2015_CVPR_paper.pdf)
+
 ### ICLR 2016
 ORDER-EMBEDDINGS OF IMAGES AND LANGUAGE
 [[paper]](https://arxiv.org/pdf/1511.06361.pdf)
