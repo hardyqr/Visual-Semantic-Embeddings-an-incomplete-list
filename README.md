@@ -113,6 +113,16 @@ Polysemous Visual-Semantic Embedding for Cross-Modal Retrieval[[paper]](https://
 Composing Text and Image for Image Retrieval - An Empirical Odyssey
 [[paper]](https://arxiv.org/pdf/1812.07119.pdf)
 
+### ICCV 2019
+Visual Semantic Reasoning for Image-Text Matching
+[[paper]](https://arxiv.org/pdf/1909.02701.pdf)
+
+Adversarial Representation Learning for Text-to-Image Matching
+[[paper]](https://arxiv.org/pdf/1908.10534.pdf)
+
+CAMP: Cross-Modal Adaptive Message Passing for Text-Image Retrieval
+[[paper]](https://arxiv.org/pdf/1909.05506.pdf)
+
 ## Journals
 ### Machine Learning 2010
 Large scale image annotation: learning to rank with joint word-image embeddings
