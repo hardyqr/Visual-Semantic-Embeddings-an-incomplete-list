@@ -124,6 +124,11 @@ Adversarial Representation Learning for Text-to-Image Matching
 CAMP: Cross-Modal Adaptive Message Passing for Text-Image Retrieval
 [[paper]](https://arxiv.org/pdf/1909.05506.pdf)
 
+### EMNLP 2019
+Unsupervised Discovery of Multimodal Links in Multi-Image, Multi-Sentence Documents
+[[paper]](https://arxiv.org/pdf/1904.07826.pdf)
+[[code]](https://github.com/jmhessel/multi-retrieval)
+
 ### AAAI 2020
 Improved Text-Image Matching by Mitigating Visual Semantic Hubs
 
