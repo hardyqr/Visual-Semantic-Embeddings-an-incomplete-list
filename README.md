@@ -108,7 +108,8 @@ Unified Visual-Semantic Embeddings: Bridging Vision and Language with Structured
 Engaging Image Captioning via Personality
 [[paper]](https://arxiv.org/pdf/1810.10665.pdf)
 
-Polysemous Visual-Semantic Embedding for Cross-Modal Retrieval[[paper]](https://arxiv.org/pdf/1906.04402.pdf)
+Polysemous Visual-Semantic Embedding for Cross-Modal Retrieval
+[[paper]](https://arxiv.org/pdf/1906.04402.pdf)
  
 Composing Text and Image for Image Retrieval - An Empirical Odyssey
 [[paper]](https://arxiv.org/pdf/1812.07119.pdf)
@@ -122,6 +123,10 @@ Adversarial Representation Learning for Text-to-Image Matching
 
 CAMP: Cross-Modal Adaptive Message Passing for Text-Image Retrieval
 [[paper]](https://arxiv.org/pdf/1909.05506.pdf)
+
+### AAAI 2020
+Improved Text-Image Matching by Mitigating Visual Semantic Hubs
+
 
 ## Journals
 ### Machine Learning 2010
