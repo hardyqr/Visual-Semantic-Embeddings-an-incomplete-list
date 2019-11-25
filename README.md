@@ -130,8 +130,12 @@ Unsupervised Discovery of Multimodal Links in Multi-Image, Multi-Sentence Docume
 [[code]](https://github.com/jmhessel/multi-retrieval)
 
 ### AAAI 2020
-Improved Text-Image Matching by Mitigating Visual Semantic Hubs
+HAL: Improved Text-Image Matching by Mitigating Visual Semantic Hubs
+[[paper]](https://arxiv.org/pdf/1911.10097v1.pdf)
+[[code]](https://github.com/hardyqr/HAL)
 
+Ladder Loss for Coherent Visual-Semantic Embedding
+[[paper]](https://arxiv.org/pdf/1911.07528.pdf)
 
 ## Journals
 ### Machine Learning 2010
