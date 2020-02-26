@@ -129,7 +129,7 @@
 
 ### CVPR 2019
 **Unified Visual-Semantic Embeddings: Bridging Vision and Language with Structured Meaning Representations.**
-*Hao Wu, Jiayuan Mao, Yufeng Zhang, Yuning Jiang, Lei Li, Weiwei Sun1, Wei-Ying Ma.*
+*Hao Wu, Jiayuan Mao, Yufeng Zhang, Yuning Jiang, Lei Li, Weiwei Sun, Wei-Ying Ma.*
 [[paper]](https://arxiv.org/pdf/1904.05521.pdf)
 
 **Engaging Image Captioning via Personality.**
