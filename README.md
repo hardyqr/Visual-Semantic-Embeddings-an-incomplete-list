@@ -2,52 +2,65 @@
 
 ## Conferences
 ### NIPS 2013
-DeViSE: A Deep Visual-Semantic Embedding Model
+**DeViSE: A Deep Visual-Semantic Embedding Model.**
+*Andrea Frome, Greg S. Corrado, Jonathon Shlens, Samy Bengio, Jeffrey Dean, Marc’Aurelio Ranzato, Tomas Mikolov.*
 [[paper]](https://papers.nips.cc/paper/5204-devise-a-deep-visual-semantic-embedding-model.pdf)
 
 ### NIPS 2014 Deep Learning Workshop
-Unifying Visual-Semantic Embeddings with Multimodal Neural Language Models
+**Unifying Visual-Semantic Embeddings with Multimodal Neural Language Models.**
+*Ryan Kiros, Ruslan Salakhutdinov, Richard S. Zemel.*
 [[paper]](https://arxiv.org/pdf/1411.2539.pdf)
 [[code]](https://github.com/ryankiros/visual-semantic-embedding)(Theano)
 
 ### CVPR 2015
-Deep Visual-Semantic Alignments for Generating Image Descriptions
+**Deep Visual-Semantic Alignments for Generating Image Descriptions.**
+*Andrej Karpathy, Li Fei-Fei.*
 [[paper]](https://cs.stanford.edu/people/karpathy/cvpr2015.pdf)
 
-Deep Correlation for Matching Images and Text
+**Deep Correlation for Matching Images and Text.**
+*Fei Yan, Krystian Mikolajczyk.*
 [[paper]](http://openaccess.thecvf.com/content_cvpr_2015/papers/Yan_Deep_Correlation_for_2015_CVPR_paper.pdf)
 
 ### ICLR 2016
-ORDER-EMBEDDINGS OF IMAGES AND LANGUAGE
+**ORDER-EMBEDDINGS OF IMAGES AND LANGUAGE.**
+*Ivan Vendrov, Ryan Kiros, Sanja Fidler, Raquel Urtasun.*
 [[paper]](https://arxiv.org/pdf/1511.06361.pdf)
 
 ### CVPR 2016
-Learning Deep Structure-Preserving Image-Text Embeddings
+**Learning Deep Structure-Preserving Image-Text Embeddings.**
+*Liwei Wang, Yin Li, Svetlana Lazebnik.*
 [[paper]](http://slazebni.cs.illinois.edu/publications/cvpr16_structure.pdf)
 
 ### CVPR 2017
-Learning a Deep Embedding Model for Zero-Shot Learning 
+**Learning a Deep Embedding Model for Zero-Shot Learning.**
+*Li Zhang, Tao Xiang, Shaogang Gong.*
 [[paper]](https://arxiv.org/pdf/1611.05088.pdf)
 [[code]](https://github.com/lzrobots/DeepEmbeddingModel_ZSL)(TF)
 
-Deep Visual-Semantic Quantization for Efficient Image Retrieval
+**Deep Visual-Semantic Quantization for Efficient Image Retrieval.**
+*Yue Cao, Mingsheng Long, Jianmin Wang, Shichen Liu.*
 [[paper]](http://openaccess.thecvf.com/content_cvpr_2017/papers/Cao_Deep_Visual-Semantic_Quantization_CVPR_2017_paper.pdf)
 
-Dual Attention Networks for Multimodal Reasoning and Matching
+**Dual Attention Networks for Multimodal Reasoning and Matching.**
+*Hyeonseob Nam, Jung-Woo Ha, Jeonghee Kim.*
 [[paper]](http://openaccess.thecvf.com/content_cvpr_2017/papers/Nam_Dual_Attention_Networks_CVPR_2017_paper.pdf)
 
 ### ICCV 2017
-Sampling Matters in Deep Embedding Learning 
+**Sampling Matters in Deep Embedding Learning.**
+*Chao-Yuan Wu, R. Manmatha, Alexander J. Smola, Philipp Krähenbühl.*
 [[paper]](https://arxiv.org/pdf/1706.07567.pdf)
 [[zhihu discussion]](https://www.zhihu.com/question/61748966)
 
-Learning Robust Visual-Semantic Embeddings
+**Learning Robust Visual-Semantic Embeddings.**
+*Yao-Hung Hubert Tsai, Liang-Kang Huang, Ruslan Salakhutdinov.*
 [[paper]](http://openaccess.thecvf.com/content_ICCV_2017/papers/Tsai_Learning_Robust_Visual-Semantic_ICCV_2017_paper.pdf)
 
-Hierarchical Multimodal LSTM for Dense Visual-Semantic Embedding
+**Hierarchical Multimodal LSTM for Dense Visual-Semantic Embedding.**
+*Zhenxing Niu, Mo Zhou, Le Wang, Xinbo Gao, Gang Hua.*
 [[paper]](http://openaccess.thecvf.com/content_ICCV_2017/papers/Niu_Hierarchical_Multimodal_LSTM_ICCV_2017_paper.pdf)
 
-Learning a Recurrent Residual Fusion Network for Multimodal Matching 
+**Learning a Recurrent Residual Fusion Network for Multimodal Matching.**
+*Yu Liu, Yanming Guo, Erwin M. Bakker, Michael S. Lew.*
 [[paper]](http://openaccess.thecvf.com/content_ICCV_2017/papers/Liu_Learning_a_Recurrent_ICCV_2017_paper.pdf)
 
 ### AAAI 2018
@@ -121,23 +134,25 @@ Visual Semantic Reasoning for Image-Text Matching
 Adversarial Representation Learning for Text-to-Image Matching
 [[paper]](https://arxiv.org/pdf/1908.10534.pdf)
 
-CAMP: Cross-Modal Adaptive Message Passing for Text-Image Retrieval
+**CAMP: Cross-Modal Adaptive Message Passing for Text-Image Retrieval.**
 [[paper]](https://arxiv.org/pdf/1909.05506.pdf)
 
 ### EMNLP 2019
-Unsupervised Discovery of Multimodal Links in Multi-Image, Multi-Sentence Documents
+**Unsupervised Discovery of Multimodal Links in Multi-Image, Multi-Sentence Documents.**
 [[paper]](https://arxiv.org/pdf/1904.07826.pdf)
 [[code]](https://github.com/jmhessel/multi-retrieval)
 
 ### AAAI 2020
-HAL: Improved Text-Image Matching by Mitigating Visual Semantic Hubs
+**HAL: Improved Text-Image Matching by Mitigating Visual Semantic Hubs.**
+*Fangyu Liu, Rongtian Ye, Xun Wang, Shuaipeng Li.*
 [[paper]](https://arxiv.org/pdf/1911.10097v1.pdf)
 [[code]](https://github.com/hardyqr/HAL)
 
-Ladder Loss for Coherent Visual-Semantic Embedding
+**Ladder Loss for Coherent Visual-Semantic Embedding.**
 [[paper]](https://arxiv.org/pdf/1911.07528.pdf)
 
-Expressing Objects just like Words: Recurrent Visual Embedding for Image-Text Matching
+**Expressing Objects just like Words: Recurrent Visual Embedding for Image-Text Matching.** 
+*Tianlang Chen, Jiebo Luo.*
 [[paper]](https://arxiv.org/pdf/2002.08510.pdf)
 
 ## Journals
