@@ -137,6 +137,9 @@ HAL: Improved Text-Image Matching by Mitigating Visual Semantic Hubs
 Ladder Loss for Coherent Visual-Semantic Embedding
 [[paper]](https://arxiv.org/pdf/1911.07528.pdf)
 
+Expressing Objects just like Words: Recurrent Visual Embedding for Image-Text Matching
+[[paper]](https://arxiv.org/pdf/2002.08510.pdf)
+
 ## Journals
 ### Machine Learning 2010
 Large scale image annotation: learning to rank with joint word-image embeddings
