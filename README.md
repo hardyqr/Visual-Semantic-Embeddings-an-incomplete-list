@@ -165,9 +165,9 @@
 
 ### AAAI 2020<br>
 **HAL: Improved Text-Image Matching by Mitigating Visual Semantic Hubs.**<br>
-*Fangyu Liu, Rongtian Ye, Xun Wang, Shuaipeng Li.*
+*Fangyu Liu, Rongtian Ye, Xun Wang, Shuaipeng Li.*<br>
 [[paper]](https://arxiv.org/pdf/1911.10097v1.pdf)
-[[code]](https://github.com/hardyqr/HAL)
+[[code]](https://github.com/hardyqr/HAL) (PyTorch)
 
 **Ladder Loss for Coherent Visual-Semantic Embedding.**<br>
 *Mo Zhou, Zhenxing Niu, Le Wang, Zhanning Gao, Qilin Zhang, Gang Hua.*<br>
