@@ -200,6 +200,12 @@
 *Jason Weston, Samy Bengio, Nicolas Usunier.*<br>
 [[paper]](https://link.springer.com/content/pdf/10.1007%2Fs10994-010-5198-3.pdf)
 
+
+### TACL 2014
+**Grounded Compositional Semantics for Finding and Describing Images with Sentences.**<br>
+*Richard Socher, Andrej Karpathy, Quoc V. Le, Christopher D. Manning, Andrew Y. Ng.*<br>
+[[paper]](https://www.aclweb.org/anthology/Q14-1017.pdf)
+
 ### IPAMI 2019 
 **Learning Two-Branch Neural Networks for Image-Text Matching Tasks.**<br>
 *Liwei Wang, Yin Li, Jing Huang, Svetlana Lazebnik.*<br>
