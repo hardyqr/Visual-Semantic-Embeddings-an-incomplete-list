@@ -190,7 +190,7 @@
 *Hui Chen, Guiguang Ding, Xudong Liu, Zijia Lin, Ji Liu, Jungong Han.*<br>
 [[paper]](https://arxiv.org/pdf/2003.03772.pdf)
 
-**Visual-Semantic Matching by Exploring High-Order Attention and Distraction.**
+**Visual-Semantic Matching by Exploring High-Order Attention and Distraction.**<br>
 *Yongzhi Li, Duo Zhang, Yadong Mu.*<br>
 [[paper]](https://pkumyd.github.io/paper/CVPR2020_LYZ.pdf)
 
