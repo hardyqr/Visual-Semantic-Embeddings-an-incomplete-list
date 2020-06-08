@@ -159,7 +159,7 @@
 
 ### EMNLP 2019
 **Multi-Head Attention with Diversity for LearningGrounded Multilingual Multimodal Representations.**<br>
-*Po-Yao Huang, Xiaojun Chang, Alexander Hauptmann*
+*Po-Yao Huang, Xiaojun Chang, Alexander Hauptmann.*
 [[paper]](https://www.aclweb.org/anthology/D19-1154.pdf)
 
 **Unsupervised Discovery of Multimodal Links in Multi-Image, Multi-Sentence Documents.**<br>
