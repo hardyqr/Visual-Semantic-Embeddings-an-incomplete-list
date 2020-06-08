@@ -158,6 +158,10 @@
 [[paper]](https://arxiv.org/pdf/1909.05506.pdf)
 
 ### EMNLP 2019
+**Multi-Head Attention with Diversity for LearningGrounded Multilingual Multimodal Representations.**<br>
+*Po-Yao Huang, Xiaojun Chang, Alexander Hauptmann*
+[[paper]](https://www.aclweb.org/anthology/D19-1154.pdf)
+
 **Unsupervised Discovery of Multimodal Links in Multi-Image, Multi-Sentence Documents.**<br>
 *Jack Hessel, Lillian Lee, David Mimno.*<br>
 [[paper]](https://arxiv.org/pdf/1904.07826.pdf)
@@ -176,6 +180,19 @@
 **Expressing Objects just like Words: Recurrent Visual Embedding for Image-Text Matching.** <br>
 *Tianlang Chen, Jiebo Luo.*<br>
 [[paper]](https://arxiv.org/pdf/2002.08510.pdf)
+
+### CVPR 2020<br>
+**Graph Structured Network for Image-Text Matching**.<br>
+*Chunxiao Liu, Zhendong Mao, Tianzhu Zhang, Hongtao Xie, Bin Wang, Yongdong Zhang.*<br>
+[[paper]](https://arxiv.org/pdf/2004.00277.pdf)
+
+**IMRAM: Iterative Matching with Recurrent Attention Memory for Cross-Modal Image-Text Retrieval.**<br>
+*Hui Chen, Guiguang Ding, Xudong Liu, Zijia Lin, Ji Liu, Jungong Han.*<br>
+[[paper]](https://arxiv.org/pdf/2003.03772.pdf)
+
+**Visual-Semantic Matching by Exploring High-Order Attention and Distraction.**
+*Yongzhi Li, Duo Zhang, Yadong Mu.*<br>
+[[paper]](https://pkumyd.github.io/paper/CVPR2020_LYZ.pdf)
 
 ## Journals
 ### Machine Learning 2010
