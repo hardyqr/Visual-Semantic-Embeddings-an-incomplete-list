@@ -194,6 +194,19 @@
 *Yongzhi Li, Duo Zhang, Yadong Mu.*<br>
 [[paper]](https://pkumyd.github.io/paper/CVPR2020_LYZ.pdf)
 
+**Multi-Modality Cross Attention Network for Image and Sentence Matching.**<br>
+*Xi Wei, Tianzhu Zhang, Yan Li, Yongdong Zhang, Feng Wu.*<br>
+[[paper]](http://openaccess.thecvf.com/content_CVPR_2020/papers/Wei_Multi-Modality_Cross_Attention_Network_for_Image_and_Sentence_Matching_CVPR_2020_paper.pdf)
+
+**Context-Aware Attention Network for Image-Text Retrieval.**<br>
+*Qi Zhang, Zhen Lei, Zhaoxiang Zhang, Stan Z. Li.*<br>
+[[paper]](http://openaccess.thecvf.com/content_CVPR_2020/papers/Zhang_Context-Aware_Attention_Network_for_Image-Text_Retrieval_CVPR_2020_paper.pdf)
+
+**Universal Weighting Metric Learning for Cross-Modal Matching.**<br>
+*Jiwei Wei, Xing Xu, Yang Yang, Yanli Ji, Zheng Wang, Heng Tao Shen.*<br>
+[[paper]](http://openaccess.thecvf.com/content_CVPR_2020/papers/Wei_Universal_Weighting_Metric_Learning_for_Cross-Modal_Matching_CVPR_2020_paper.pdf)
+
+
 ## Journals
 ### Machine Learning 2010
 **Large scale image annotation: learning to rank with joint word-image embeddings.**<br>
