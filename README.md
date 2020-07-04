@@ -164,7 +164,7 @@
 **_(CVPR 2019)_**<br>
 [[paper]](https://arxiv.org/pdf/1812.07119.pdf)
 
-**Annotation Efficient Cross-Modal Retrieval with Adversarial Attentive Alignment.**
+**Annotation Efficient Cross-Modal Retrieval with Adversarial Attentive Alignment.**<br>
 *Po-Yao Huang, Guoliang Kang, Wenhe Liu, Xiaojun Chang, Alexander G Hauptmann.*<br>
 **_(ACM MM 2019)_**<br>
 [[paper]](http://www.cs.cmu.edu/~poyaoh/data/ann.pdf)
