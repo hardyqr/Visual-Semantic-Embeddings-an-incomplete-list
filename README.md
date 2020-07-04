@@ -164,6 +164,11 @@
 **_(CVPR 2019)_**<br>
 [[paper]](https://arxiv.org/pdf/1812.07119.pdf)
 
+**Annotation Efficient Cross-Modal Retrieval with Adversarial Attentive Alignment.**
+*Po-Yao Huang, Guoliang Kang, Wenhe Liu, Xiaojun Chang, Alexander G Hauptmann.*<br>
+**_(ACM MM 2019)_**<br>
+[[paper]](http://www.cs.cmu.edu/~poyaoh/data/ann.pdf)
+
 **Visual Semantic Reasoning for Image-Text Matching.**<br>
 *Kunpeng Li, Yulun Zhang, Kai Li, Yuanyuan Li, Yun Fu.*<br>
 **_(ICCV 2019)_**<br>
@@ -179,8 +184,8 @@
 **_(ICCV 2019)_**<br>
 [[paper]](https://arxiv.org/pdf/1909.05506.pdf)
 
-**Multi-Head Attention with Diversity for LearningGrounded Multilingual Multimodal Representations.**<br>
-*Po-Yao Huang, Xiaojun Chang, Alexander Hauptmann.*
+**Multi-Head Attention with Diversity for Learning Grounded Multilingual Multimodal Representations.**<br>
+*Po-Yao Huang, Xiaojun Chang, Alexander Hauptmann.*<br>
 **_(EMNLP 2019)_**<br>
 [[paper]](https://www.aclweb.org/anthology/D19-1154.pdf)
 
@@ -254,6 +259,14 @@
 
 **Learning Two-Branch Neural Networks for Image-Text Matching Tasks.**<br>
 *Liwei Wang, Yin Li, Jing Huang, Svetlana Lazebnik.*<br>
-**_(IPAMI 2019 )_**<br>
+**_(IPAMI 2019)_**<br>
 [[paper]](https://arxiv.org/pdf/1704.03470.pdf)
 [[code]](https://github.com/lwwang/Two_branch_network)(TF)
+
+**Upgrading the Newsroom: An Automated Image Selection System for News Articles.**<br>
+*Fangyu Liu, Rémi Lebret, Didier Orel, Philippe Sordet, Karl Aberer.*<br>
+**_(ACM TOMM 2020)_**<br>
+[[paper]](https://arxiv.org/pdf/2004.11449.pdf)
+[[slides]](http://fangyuliu.me/media/others/lsir_talk_final_version_0.3.pdf)
+[[demo]](https://modemos.epfl.ch/article)
+
