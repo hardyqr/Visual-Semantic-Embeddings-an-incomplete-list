@@ -246,6 +246,14 @@
 **_(ICML 2020)_**<br>
 [[paper]](https://arxiv.org/pdf/2006.14744.pdf)
 
+**Adaptive Offline Quintuplet Loss for Image-Text Matching.**<br>
+*Tianlang Chen, Jiajun Deng, Jiebo Luo.*<br>
+**_(ECCV 2020)_**<br>
+[[paper]](https://arxiv.org/pdf/2003.03669.pdf)
+[[code]](https://github.com/sunnychencool/AOQ)(PyTorch)
+
+
+
 ## Journals
 **Large scale image annotation: learning to rank with joint word-image embeddings.**<br>
 *Jason Weston, Samy Bengio, Nicolas Usunier.*<br>
