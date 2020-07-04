@@ -1,4 +1,4 @@
-# Visual Semantic Embeddings and Text-Image Retrieval: an incomplete list
+# Visual Semantic Embeddings \& Text-Image Retrieval papers: an incomplete list
 
 ## Conferences
 **DeViSE: A Deep Visual-Semantic Embedding Model.** <br>
