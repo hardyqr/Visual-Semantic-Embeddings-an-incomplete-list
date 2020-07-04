@@ -244,17 +244,16 @@
 ## Journals
 **Large scale image annotation: learning to rank with joint word-image embeddings.**<br>
 *Jason Weston, Samy Bengio, Nicolas Usunier.*<br>
-**_(Machine Learning 2010)_**
+**_(Machine Learning 2010)_**<br>
 [[paper]](https://link.springer.com/content/pdf/10.1007%2Fs10994-010-5198-3.pdf)
-
 
 **Grounded Compositional Semantics for Finding and Describing Images with Sentences.**<br>
 *Richard Socher, Andrej Karpathy, Quoc V. Le, Christopher D. Manning, Andrew Y. Ng.*<br>
-**_(TACL 2014)_**
+**_(TACL 2014)_**<br>
 [[paper]](https://www.aclweb.org/anthology/Q14-1017.pdf)
 
 **Learning Two-Branch Neural Networks for Image-Text Matching Tasks.**<br>
 *Liwei Wang, Yin Li, Jing Huang, Svetlana Lazebnik.*<br>
-**_(IPAMI 2019 )_**
+**_(IPAMI 2019 )_**<br>
 [[paper]](https://arxiv.org/pdf/1704.03470.pdf)
 [[code]](https://github.com/lwwang/Two_branch_network)(TF)
