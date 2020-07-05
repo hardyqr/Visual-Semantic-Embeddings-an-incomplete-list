@@ -184,6 +184,11 @@
 **_(ICCV 2019)_**<br>
 [[paper]](https://arxiv.org/pdf/1909.05506.pdf)
 
+**Align2Ground: Weakly Supervised Phrase Grounding Guided by Image-Caption Alignment.**<br>
+*Samyak Datta, Karan Sikka, Anirban Roy, Karuna Ahuja, Devi Parikh, Ajay Divakaran.*<br>
+**_(ICCV 2019)_**<br>
+[[paper]](https://arxiv.org/pdf/1903.11649.pdf)
+
 **Multi-Head Attention with Diversity for Learning Grounded Multilingual Multimodal Representations.**<br>
 *Po-Yao Huang, Xiaojun Chang, Alexander Hauptmann.*<br>
 **_(EMNLP 2019)_**<br>
