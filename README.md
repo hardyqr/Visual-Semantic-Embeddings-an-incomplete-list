@@ -269,7 +269,7 @@
 [[code]](https://github.com/BruceW91/CVSE)(PyTorch)
 
 **Contrastive Learning for Weakly Supervised Phrase Grounding.**<br>
-*Tanmay Gupta, Arash Vahdat, Gal Chechik, Xiaodong Yang, Jan Kautz, Derek Hoiem.*
+*Tanmay Gupta, Arash Vahdat, Gal Chechik, Xiaodong Yang, Jan Kautz, Derek Hoiem.*<br>
 **_(ECCV 2020)_**<br>
 [[paper]](https://arxiv.org/pdf/2006.09920.pdf)
 [[code]](https://github.com/BigRedT/info-ground)(PyTorch)
