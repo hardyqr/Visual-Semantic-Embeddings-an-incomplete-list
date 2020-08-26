@@ -257,7 +257,7 @@
 [[paper]](https://arxiv.org/pdf/2003.03669.pdf)
 [[code]](https://github.com/sunnychencool/AOQ)(PyTorch)
 
-**Learning Joint Visual Semantic MatchingEmbeddings for Language-guided Retrieval.**<br>
+**Learning Joint Visual Semantic Matching Embeddings for Language-guided Retrieval.**<br>
 *Yanbei Chen, Loris Bazzani.*<br>
 **_(ECCV 2020)_**<br>
 [[paper]](https://assets.amazon.science/5b/db/440af26349adb83c77c85cd11922/learning-joint-visual-semantic-matching-embeddings-for-text-guided-retrieval.pdf)
