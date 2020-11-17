@@ -216,6 +216,12 @@
 **_(AAAI 2020)_**<br>
 [[paper]](https://arxiv.org/pdf/2002.08510.pdf)
 
+**Adaptive Cross-modal Embeddings for Image-Text Alignment.**<br>
+*Jonatas Wehrmann, Camila Kolling, Rodrigo C Barros.*<br>
+**_(AAAI 2020)_**<br>
+[[paper]](https://ojs.aaai.org//index.php/AAAI/article/view/6915)
+[[code]](https://github.com/jwehrmann/retrieval.pytorch) (PyTorch)
+
 **Graph Structured Network for Image-Text Matching**.<br>
 *Chunxiao Liu, Zhendong Mao, Tianzhu Zhang, Hongtao Xie, Bin Wang, Yongdong Zhang.*<br>
 **_(CVPR 2020)_**<br>
