@@ -290,7 +290,7 @@
 *Adam Dahlgren Lindström, Suna Bensch, Johanna Björklund, Frank Drewes.*<br>
 **_(COLING 2020)_**<br>
 [[paper]](https://www.aclweb.org/anthology/2020.coling-main.64.pdf)
-
+[[code]](https://github.com/dali-does/vse-probing)(PyTorch)
 
 ## Journals
 **Large scale image annotation: learning to rank with joint word-image embeddings.**<br>
