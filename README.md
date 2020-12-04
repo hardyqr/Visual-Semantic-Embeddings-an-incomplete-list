@@ -285,6 +285,13 @@
 **_(ECCV 2020)_**<br>
 [[paper]](https://arxiv.org/pdf/2007.08617.pdf)
 
+
+**Probing Multimodal Embeddings for Linguistic Properties: the Visual-Semantic Case.**<br>
+*Adam Dahlgren Lindström, Suna Bensch, Johanna Björklund, Frank Drewes.*<br>
+**_(COLING 2020)_**<br>
+[[paper]](https://www.aclweb.org/anthology/2020.coling-main.64.pdf)
+
+
 ## Journals
 **Large scale image annotation: learning to rank with joint word-image embeddings.**<br>
 *Jason Weston, Samy Bengio, Nicolas Usunier.*<br>
